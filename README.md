@@ -172,6 +172,11 @@ jupyter>=1.0.0
 
 ## 💻 Usage
 
+### 🚀 **Try it Online (Recommended)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13RGzLbpSgiLUGROEsveJRWZzbOs_ubyk#scrollTo=r_4Qc008cgRu)
+
+**🎯 Quick Start:** Click the Colab badge above to test the project instantly in your browser - no installation required!
+
 ### 1. **Run the Complete Analysis**
 ```bash
 jupyter notebook breast_cancer_prediciton.py
