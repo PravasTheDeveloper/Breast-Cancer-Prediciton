@@ -177,13 +177,13 @@ jupyter>=1.0.0
 
 **🎯 Quick Start:** Click the Colab badge above to test the project instantly in your browser - no installation required!
 
-### 1. **Run the Complete Analysis**
+### 1. **Run the Complete Jupyter Notebook**
 ```bash
-jupyter notebook breast_cancer_prediciton.py
+jupyter notebook breast_cancer_prediction_complete.ipynb
 ```
 
-### 2. **Or Run in Python Environment**
-```python
+### 2. **Or Run the Python Script**
+```bash
 python breast_cancer_prediciton.py
 ```
 
@@ -236,6 +236,7 @@ show_feature_importance()
 breast-cancer-prediction/
 │
 ├── 📄 breast_cancer_prediciton.py    # Main prediction script
+├── 📓 breast_cancer_prediction_complete.ipynb # Complete Jupyter notebook
 ├── 📊 data.csv                       # Wisconsin Breast Cancer Dataset
 ├── 📋 README.md                      # Project documentation
 ├── 📦 requirements.txt               # Python dependencies
